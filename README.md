@@ -1,4 +1,4 @@
 # Atlas Sites
-Website Design Template
+Website Design Template w/
 *FontAwesome
 *Bootstrap 4
